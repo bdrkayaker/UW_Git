@@ -1,2 +1,4 @@
 another line added
 another times 2
+third line
+fourth line
